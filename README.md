@@ -1,3 +1,12 @@
 # hotel-management-typescript
 
-teste sshs
+<h4 align="center"> 
+    :construction:  Projeto em construção   :construction:
+</h4>
+<br>
+
+## ✔️ Técnicas e tecnologias utilizadas
+
+- ``Angular``
+- ``TypeScript``
+- ``Visual Studio Code``
